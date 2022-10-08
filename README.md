@@ -2,10 +2,11 @@
 
 ### Projeto desenvolvido para portifólio pessoal.
 
-<ul>
- <li href="#skills">Skills utilizadas</li>
- <li href="#contatos">Contatos</li>
-</ul>
+
+ <a href="skills">• Skills utilizadas</a>
+ <br>
+ <a href="contatos">• contatos</a>
+
 
 
 
