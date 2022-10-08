@@ -2,8 +2,11 @@
 
 ### Projeto desenvolvido para portifólio pessoal.
 
-<ul href="#Skills utilizadas">Skills Utilizadas</ul>
-<ul href="">Contato</ul>
+<ul>
+ <li href="#skills">Skills utilizadas</li>
+ <li href="#contatos">Contatos</li>
+</ul>
+
 
 
 
@@ -18,12 +21,12 @@
 
 ![127 0 0 1-screenshot (1)](https://user-images.githubusercontent.com/102608021/194709460-6f0a110b-cb78-4428-9aa3-c5d5127336c2.png)
 
-# Skills Utilizadas
+<h1 class="skills"id="skills">Skills Utilizadas</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,)](https://skillicons.dev)
 
 
-# Meus contatos
+<h1 id="contatos">Meus Contatos</h1>
 
 #### Para entrar em contato comigo:
 
