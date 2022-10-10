@@ -14,8 +14,7 @@
 <h1 align="center">VISÃO GERAL</h1>
 
 <P align="center">Uma landing page de uma agência fictícia,com intuito de treinar a responsividade de um site</p>
-
-<h1 align="center" href="https://rodrigues-gustavo.github.io/agencia-xyz/">TESTAR</h1>
+<h1 align="center"> TESTAR</h1>
 
 <div>
  
