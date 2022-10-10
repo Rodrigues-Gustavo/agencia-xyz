@@ -3,15 +3,15 @@
 ### Projeto desenvolvido para portifólio pessoal.
 
 
- <a href="skills">• Skills utilizadas</a>
+ <a href="#skills">• Skills utilizadas</a>
  <br>
- <a href="contatos">• contatos</a>
+ <a href="#contatos">• contatos</a>
 
 
 
 
 
-# Visão Geral
+<h1 align="center">VISÃO GERAL</h1>
 
 <P>Uma landing page de uma agência fictícia,com intuito de treinar a responsividade de um site</p>
 
@@ -22,7 +22,7 @@
 
 ![127 0 0 1-screenshot (1)](https://user-images.githubusercontent.com/102608021/194709460-6f0a110b-cb78-4428-9aa3-c5d5127336c2.png)
 
-<h1 class="skills"id="skills">Skills Utilizadas</h1>
+<h1 id="skills">Skills Utilizadas</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,)](https://skillicons.dev)
 
