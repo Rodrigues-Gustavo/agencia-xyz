@@ -13,14 +13,17 @@
 
 <h1 align="center">VISÃO GERAL</h1>
 
-<P>Uma landing page de uma agência fictícia,com intuito de treinar a responsividade de um site</p>
+<P align="center">Uma landing page de uma agência fictícia,com intuito de treinar a responsividade de um site</p>
 
 <h1 align="center">TESTAR</h1>
 
-
+<div>
+ 
 ![127 0 0 1-screenshot](https://user-images.githubusercontent.com/102608021/194709384-f23ed485-8226-4a0b-8640-6f31799da24b.png)
 
 ![127 0 0 1-screenshot (1)](https://user-images.githubusercontent.com/102608021/194709460-6f0a110b-cb78-4428-9aa3-c5d5127336c2.png)
+
+</div>
 
 <h1 id="skills">Skills Utilizadas</h1>
 
