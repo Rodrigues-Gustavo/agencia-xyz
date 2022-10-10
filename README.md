@@ -2,18 +2,13 @@
 
 ### Projeto desenvolvido para portifólio pessoal.
 
-
  <a href="#skills">• Skills utilizadas</a>
  <br>
  <a href="#contatos">• contatos</a>
 
-
-
-
-
 <h1 align="center">VISÃO GERAL</h1>
 
-<P align="center">Uma landing page de uma agência fictícia,com intuito de treinar a responsividade de um site</p>
+<P align="center">Uma landing page de uma agência fictícia com intuito de treinar a responsividade de um site</p>
 <h1 align="center"> TESTAR</h1>
 
 <div align="center">
