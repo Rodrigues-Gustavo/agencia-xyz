@@ -16,11 +16,9 @@
 <P align="center">Uma landing page de uma agência fictícia,com intuito de treinar a responsividade de um site</p>
 <h1 align="center"> TESTAR</h1>
 
-<div>
+<div align="center">
  
-![127 0 0 1-screenshot](https://user-images.githubusercontent.com/102608021/194709384-f23ed485-8226-4a0b-8640-6f31799da24b.png)
-
-![127 0 0 1-screenshot (1)](https://user-images.githubusercontent.com/102608021/194709460-6f0a110b-cb78-4428-9aa3-c5d5127336c2.png)
+![Purple Neon Phone Wallpaper](https://user-images.githubusercontent.com/102608021/194789505-8e902761-4c6e-4734-b9e3-65f7172db352.png)
 
 </div>
 
